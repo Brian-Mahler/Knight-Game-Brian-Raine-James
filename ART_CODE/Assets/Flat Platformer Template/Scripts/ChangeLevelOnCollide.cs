@@ -15,6 +15,15 @@ public class ChangeLevelOnCollide : MonoBehaviour
     public float changeDelay = 0.2f;
 
     public UnityEvent OnHit;
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            //run any extra effects
+            OnHit.Invoke();
+            SceneManager.LoadScene(NextScene);
+        }
+    }
 
-   
+
 }
