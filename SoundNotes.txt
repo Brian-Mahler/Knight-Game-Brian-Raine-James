@@ -7,3 +7,7 @@ Blank 3 = W.Dummy Die
 Blank 14 = S.Fly Hit
 Blank 12 = S.Fly Die
 Blank 22 = Main Stage Fly Ambient Loop
+Blank 16 = Player Jump
+Blank 14, Pitch .5 = B.Fly Hit
+Blank 12, Pitch .4 = B.Fly Die
+Blank 1 = Exit Door

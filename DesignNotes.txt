@@ -1,0 +1,8 @@
+Design:
+Player Jumps to wagon wheel height
+S.Flys are the size of player head
+B.Fly is player size
+4 Trees (3rd tree is partially transparent)
+1st and 4th tree about 2.5 wagons tall
+2nd tree 2 wagons tall
+3rd tree 1.5 wagons tall
