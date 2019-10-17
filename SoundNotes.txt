@@ -1,0 +1,9 @@
+Sound: 
+Blank 7 = Start, End and Death screen music
+Blank 23 = Buttons
+Blank 20 = Main Stage area
+Blank 10 = W.Dummy Hit
+Blank 3 = W.Dummy Die
+Blank 14 = S.Fly Hit
+Blank 12 = S.Fly Die
+Blank 22 = Main Stage Fly Ambient Loop
