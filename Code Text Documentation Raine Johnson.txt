@@ -1,0 +1,4 @@
+Director Documentation: Focused on getting everyone on the same page in terms of being able to push and commit their files onto GitHub.
+Made sure everyone knew their roles and tried to help them to the best of my ability.
+
+Tech Lead Documentation: Matched up scrambled code with each of the scripts so that it would run properly. Made sure code interacted with sprites and the flies moved properly.
